@@ -1,0 +1,326 @@
+incident_date,state,city_or_county,address,participant_gender,participant_age_group,role,status,age
+2024-10-19,Virginia,Charlottesville,1600 block of Rio Hill Dr,male,23,victim,killed,23
+2024-10-19,Virginia,Charlottesville,1600 block of Rio Hill Dr,NA,NA,victim,injured,NA
+2024-10-19,Virginia,Charlottesville,800 block of Hardy Dr,male,Adult 18+,victim,injured,NA
+2024-08-22,Virginia,Charlottesville,Mason St,male,27,victim,injured,27
+2024-08-22,Virginia,Charlottesville,Mason St,male,27,suspect,unharmed,27
+2024-07-28,Virginia,Charlottesville,100 block of E Market St,male,33,victim,injured,33
+2024-07-28,Virginia,Charlottesville,100 block of E Market St,male,41,suspect,unharmed,41
+2024-07-23,Virginia,Charlottesville,108 Lankford Ave,male,23,victim,injured,23
+2024-07-23,Virginia,Charlottesville,1221 E Market St,male,30,victim,injured,30
+2024-07-04,Virginia,Charlottesville,301 Monte Vista Ave,female,81,victim,killed,81
+2024-07-04,Virginia,Charlottesville,301 Monte Vista Ave,male,85,suspect,injured,85
+2024-06-19,Virginia,Charlottesville,1300 block of Carlton Ave,female,18,victim,injured,18
+2024-06-19,Virginia,Charlottesville,1300 block of Carlton Ave,male,25,suspect,unharmed,25
+2024-06-10,Virginia,Charlottesville,325 Timberland Ln,female,17,victim,injured,17
+2024-05-03,Virginia,Charlottesville,2000 block of Michie Dr,male,Teen 12-17,victim,injured,17
+2024-04-19,Virginia,Charlottesville,800 block of Runnel Ct,male,Adult 18+,victim,injured,NA
+2024-04-16,Virginia,Charlottesville,Cherry Ave and Ridge St,male,Adult 18+,victim,injured,NA
+2024-04-16,Virginia,Charlottesville,Cherry Ave and Ridge St,male,Adult 18+,suspect,unharmed,NA
+2024-04-15,Virginia,Charlottesville,1000 Cherry Ave,male,Teen 12-17,suspect,unharmed,14
+2024-04-09,Virginia,Charlottesville,Rosser Ave and 12th St NW,male,40,suspect,unharmed,40
+2024-04-09,Virginia,Charlottesville,Rosser Ave and 12th St NW,male,31,victim,killed,31
+2024-02-24,Virginia,Charlottesville,200 block of W Main St,male,35,victim,injured,35
+2024-02-14,Virginia,Charlottesville,3251 Morgantown Rd,female,36,suspect,unharmed,36
+2024-01-29,Virginia,Charlottesville,Carlton Ave and Bainbridge St,male,42,victim,injured,42
+2024-01-14,Virginia,Charlottesville,Hardy Dr,NA,NA,victim,injured,NA
+2023-10-14,Virginia,Charlottesville,200 block of E Market St,male,28,suspect,unharmed,28
+2023-10-14,Virginia,Charlottesville,200 block of E Market St,male,48,victim,killed,48
+2023-10-11,Virginia,Charlottesville,500 Cherry Ave,male,Adult 18+,victim,injured,NA
+2023-09-13,Virginia,Charlottesville,1600 Rio Rd E,male,19,suspect,unharmed,19
+2023-09-13,Virginia,Charlottesville,1600 Rio Rd E,male,27,victim,injured,27
+2023-09-13,Virginia,Charlottesville,1600 Rio Rd E,male,Adult 18+,victim,injured,NA
+2023-08-10,Virginia,Charlottesville,Hartmans Mill Rd and Rougemont Ave,NA,NA,victim,injured,NA
+2023-07-21,Virginia,Charlottesville,2088 Berkmar Dr,male,27,victim,killed,27
+2023-07-21,Virginia,Charlottesville,2088 Berkmar Dr,male,22,victim,killed,22
+2023-07-21,Virginia,Charlottesville,2088 Berkmar Dr,male,22,suspect,unharmed,22
+2023-06-25,Virginia,Charlottesville,200 block of South Street West,male,72,victim,killed,72
+2023-06-23,Virginia,Charlottesville,2400 block of Berkshire Pl,male,26,suspect,unharmed,26
+2023-06-23,Virginia,Charlottesville,2400 block of Berkshire Pl,female,22,victim,injured,22
+2023-06-20,Virginia,Charlottesville,1600 block of Rio Hill Dr,male,33,suspect,unharmed,33
+2023-06-20,Virginia,Charlottesville,1600 block of Rio Hill Dr,female,46,victim,killed,46
+2023-05-27,Virginia,Charlottesville,766 Prospect Ave,male,16,victim,injured,16
+2023-03-18,Virginia,Charlottesville,3 Elliewood Ave,male,21,suspect,unharmed,21
+2023-03-18,Virginia,Charlottesville,3 Elliewood Ave,male,26,victim,killed,26
+2023-03-04,Virginia,Charlottesville,827 Cherry Ave,male,20,victim,killed,20
+2023-03-04,Virginia,Charlottesville,827 Cherry Ave,male,17,victim,injured,17
+2023-03-04,Virginia,Charlottesville,827 Cherry Ave,male,19,suspect,unharmed,19
+2023-02-28,Virginia,Charlottesville,US-250 BYP and Hydraulic Rd,male,44,victim,killed,44
+2023-02-22,Virginia,Charlottesville,800 block of Hardy Dr,male,20,victim,killed,20
+2023-02-22,Virginia,Charlottesville,800 block of Hardy Dr,male,19,suspect,injured,19
+2023-02-21,Virginia,Charlottesville,325 Timberland Ln,male,34,victim,killed,34
+2023-02-18,Virginia,Charlottesville,400 block of 10th St NW,N/A,NA,victim,injured,NA
+2023-02-15,Virginia,Charlottesville,200 block of Wahoo Way,male,Teen 12-17,victim,injured,16
+2023-02-12,Virginia,Charlottesville,905 Twentyninth Pl Ct,female,Adult 18+,victim,injured,NA
+2023-02-08,Virginia,Charlottesville,930 Harris St,male,Adult 18+,victim,injured,NA
+2023-02-08,Virginia,Charlottesville,930 Harris St,male,40,suspect,unharmed,40
+2023-01-28,Virginia,Charlottesville,1100 block of Grove St,male,38,suspect,unharmed,38
+2023-01-28,Virginia,Charlottesville,1100 block of Grove St,male,36,victim,killed,36
+2023-01-24,Virginia,Charlottesville,400 block of Oak St,female,30,victim,injured,30
+2023-01-23,Virginia,Charlottesville,6th St and Garrett St,male,Teen 12-17,victim,injured,17
+2023-01-08,Virginia,Charlottesville,408 Monticello Rd,male,Adult 18+,suspect,injured,NA
+2023-01-08,Virginia,Charlottesville,408 Monticello Rd,male,20,victim,killed,20
+2023-01-08,Virginia,Charlottesville,408 Monticello Rd,male,22,suspect,unharmed,22
+2022-12-19,Virginia,Charlottesville,2300 block of N Berkshire Road,female,Adult 18+,victim,injured,NA
+2022-12-18,Virginia,Charlottesville,100 14th Street NW,male,Adult 18+,victim,injured,NA
+2022-12-18,Virginia,Charlottesville,100 14th Street NW,male,28,suspect,unharmed,28
+2022-12-03,Virginia,Charlottesville,800 block of W Main St,NA,NA,victim,injured,NA
+2022-11-13,Virginia,Charlottesville,130 Culbreth St,male,20,victim,killed,20
+2022-11-13,Virginia,Charlottesville,130 Culbreth St,male,22,victim,killed,22
+2022-11-13,Virginia,Charlottesville,130 Culbreth St,male,19,victim,injured,19
+2022-11-13,Virginia,Charlottesville,130 Culbreth St,female,19,victim,injured,19
+2022-11-13,Virginia,Charlottesville,130 Culbreth St,male,22,suspect,unharmed,22
+2022-11-13,Virginia,Charlottesville,130 Culbreth St,male,20,victim,killed,20
+2022-11-12,Virginia,Charlottesville,800 block of Hardy Dr,male,Teen 12-17,victim,injured,16
+2022-10-25,Virginia,Charlottesville,2100 block of Stony Point Rd,female,38,suspect,unharmed,38
+2022-10-25,Virginia,Charlottesville,2100 block of Stony Point Rd,male,53,victim,killed,53
+2022-10-23,Virginia,Charlottesville,223 W Main St,male,31,victim,killed,31
+2022-10-23,Virginia,Charlottesville,223 W Main St,female,NA,victim,injured,NA
+2022-10-23,Virginia,Charlottesville,223 W Main St,female,NA,victim,injured,NA
+2022-10-23,Virginia,Charlottesville,223 W Main St,male,33,suspect,unharmed,33
+2022-10-15,Virginia,Charlottesville,212 Ridge McIntire Rd,male,14,victim,injured,14
+2022-10-15,Virginia,Charlottesville,212 Ridge McIntire Rd,male,Teen 12-17,victim,injured,16
+2022-10-15,Virginia,Charlottesville,212 Ridge McIntire Rd,male,14,suspect,unharmed,14
+2022-10-15,Virginia,Charlottesville,212 Ridge McIntire Rd,male,17,suspect,unharmed,17
+2022-10-15,Virginia,Charlottesville,212 Ridge McIntire Rd,male,Teen 12-17,suspect,unharmed,17
+2022-09-28,Virginia,Charlottesville,900 block of Anderson St,male,21,suspect,unharmed,21
+2022-09-28,Virginia,Charlottesville,900 block of Anderson St,male,Adult 18+,victim,injured,NA
+2022-09-28,Virginia,Charlottesville,900 block of Anderson St,male,Adult 18+,victim,injured,NA
+2022-09-24,Virginia,Charlottesville,1610 Rio Hill Dr,NA,NA,victim,killed,NA
+2022-09-22,Virginia,Charlottesville,816 Mallside Forest Ct,NA,NA,victim,injured,NA
+2022-09-22,Virginia,Charlottesville,816 Mallside Forest Ct,NA,NA,victim,injured,NA
+2022-09-22,Virginia,Charlottesville,816 Mallside Forest Ct,NA,NA,victim,injured,NA
+2022-09-17,Virginia,Charlottesville,208 3rd St NE,male,29,victim,killed,29
+2022-09-15,Virginia,Charlottesville,Elliott Ave and 6th St SE,male,43,victim,killed,43
+2022-09-14,Virginia,Charlottesville,Cedar Hill Rd and N Berkshire Rd,NA,NA,victim,injured,NA
+2022-08-29,Virginia,Charlottesville,Fontaine Ave Ext and US-250,male,60,victim,killed,60
+2022-08-19,Virginia,Charlottesville,400 block of Burgoyne Rd,NA,NA,victim,injured,NA
+2022-08-07,Virginia,Charlottesville,400 block of 5th St SW,male,32,victim,injured,32
+2022-07-24,Virginia,Charlottesville,100 block of Stewart Cir,male,18,suspect,unharmed,18
+2022-07-24,Virginia,Charlottesville,100 block of Stewart Cir,NA,NA,victim,injured,NA
+2022-05-21,Virginia,Charlottesville,2300 block of Thomas Jefferson Pkwy,male,23,suspect,unharmed,23
+2022-05-21,Virginia,Charlottesville,2300 block of Thomas Jefferson Pkwy,N/A,NA,victim,injured,NA
+2022-03-29,Virginia,Charlottesville,800 block of Anderson St,male,42,victim,injured,42
+2022-03-20,Virginia,Charlottesville,2512 Jefferson Park Ave,male,Adult 18+,vicitm,injured,NA
+2022-03-20,Virginia,Charlottesville,2512 Jefferson Park Ave,male,Adult 18+,victim,injured,NA
+2022-03-20,Virginia,Charlottesville,2512 Jefferson Park Ave,male,23,suspect,unharmed,23
+2022-03-20,Virginia,Charlottesville,2512 Jefferson Park Ave,male,25,suspect,unharmed,25
+2022-01-14,Virginia,Charlottesville,900 block of 1st St S,NA,2,victim,injured,2
+2021-09-18,Virginia,Charlottesville,313 2nd Street SE,male,20,suspect,unharmed,20
+2021-09-18,Virginia,Charlottesville,313 2nd Street SE,NA,NA,victim,injured,NA
+2021-09-18,Virginia,Charlottesville,313 2nd Street SE,NA,NA,victim,injured,NA
+2021-09-04,Virginia,Charlottesville,102 14th St NW,N/A,Adult 18+,victim,injured,NA
+2021-09-04,Virginia,Charlottesville,102 14th St NW,male,22,suspect,unharmed,22
+2021-08-30,Virginia,Charlottesville,King St and Paton St,NA,NA,suspect,unharmed,NA
+2021-08-19,Virginia,Charlottesville,520 2nd St SE,NA,NA,suspect,unharmed,NA
+2021-07-28,Virginia,Charlottesville,2407 Peyton Dr,NA,NA,suspect,unharmed,NA
+2021-06-27,Virginia,Charlottesville,300 block of Riverside Ave,NA,NA,suspect,unharmed,NA
+2021-06-25,Virginia,Charlottesville,801 Hardy Dr,NA,NA,suspect,unharmed,NA
+2021-05-28,Virginia,Charlottesville,Elliewood Ave,male,28,suspect,unharmed,28
+2021-05-15,Virginia,Charlottesville,2334 Peyton Dr,male,Adult 18+,victim,injured,NA
+2021-05-06,Virginia,Charlottesville,Hardy Dr,NA,NA,suspect,unharmed,NA
+2021-05-04,Virginia,Charlottesville,700 block of Prospect Ave,NA,NA,victim,injured,NA
+2021-05-01,Virginia,Charlottesville,100 block of Longwood Dr,NA,NA,suspect,unharmed,NA
+2021-04-30,Virginia,Charlottesville,Hardy Dr,N/A,NA,victim,injured,NA
+2021-04-13,Virginia,Charlottesville,700 block of Prospect Ave,male,32,suspect,unharmed,32
+2021-04-13,Virginia,Charlottesville,700 block of Prospect Ave,male,Adult 18+,victim,injured,NA
+2021-04-07,Virginia,Charlottesville,700 block of Prospect Ave,NA,NA,suspect,unharmed,NA
+2021-04-04,Virginia,Charlottesville,100 block of Hammond St,NA,NA,victim,injured,NA
+2021-03-27,Virginia,Charlottesville,900 block of S 1st St,NA,NA,suspect,unharmed,NA
+2021-03-26,Virginia,Charlottesville,418 Garrett St,NA,NA,suspect,unharmed,NA
+2021-03-13,Virginia,Charlottesville,800 block of Hardy Dr,NA,NA,suspect,unharmed,NA
+2021-03-12,Virginia,Charlottesville,900 block of Nassau St,NA,NA,suspect,unharmed,NA
+2021-03-08,Virginia,Charlottesville,700 block of Prospect Ave,NA,NA,suspect,unharmed,NA
+2021-02-22,Virginia,Charlottesville,800 block of Shamrock Rd,NA,NA,victim,injured,NA
+2021-01-05,Virginia,Charlottesville,700 block of Prospect Ave,NA,NA,suspect,unharmed,NA
+2021-01-05,Virginia,Charlottesville,700 block of 6th St SE,NA,NA,suspect,unharmed,NA
+2021-01-04,Virginia,Charlottesville,1904 Emmet St N,male,21,victim,injured,21
+2021-01-04,Virginia,Charlottesville,1904 Emmet St N,male,21,suspect,unharmed,21
+2021-01-04,Virginia,Charlottesville,1904 Emmet St N,male,20,suspect,unharmed,20
+2021-01-04,Virginia,Charlottesville,1904 Emmet St N,male,19,suspect,unharmed,19
+2020-12-27,Virginia,Charlottesville,900 block of S 1st St,male,32,victim,killed,32
+2020-12-17,Virginia,Charlottesville,700 block of Madison Ave,male,NA,suspect,unharmed,NA
+2020-12-06,Virginia,Charlottesville,500 block of Ridge St,NA,Adult 18+,victim,injured,NA
+2020-11-28,Virginia,Charlottesville,732 McIntire Rd,female,31,victim,killed,31
+2020-11-14,Virginia,Charlottesville,800 block of Orangedale Ave,male,44,suspect,unharmed,44
+2020-11-14,Virginia,Charlottesville,800 block of Orangedale Ave,male,41,victim,killed,41
+2020-11-05,Virginia,Charlottesville,900 block of 1st St S,male,22,suspect,unharmed,22
+2020-11-05,Virginia,Charlottesville,900 block of 1st St S,male,27,victim,killed,27
+2020-10-16,Virginia,Charlottesville,800 block of Mallside Forest Ct,male,19,victim,killed,19
+2020-10-16,Virginia,Charlottesville,800 block of Mallside Forest Ct,male,20,suspect,unharmed,20
+2020-10-16,Virginia,Charlottesville,800 block of Mallside Forest Ct,NA,15,suspect,unharmed,15
+2020-06-29,Virginia,Charlottesville,824 Mallside Forest Ct,NA,NA,NA,unharmed,NA
+2020-06-20,Virginia,Charlottesville,1100 block of W Main St,male,28,suspect,unharmed,28
+2020-05-30,Virginia,Charlottesville,Lankford Ave and 1st St,NA,NA,suspect,unharmed,NA
+2020-05-30,Virginia,Charlottesville,Lankford Ave and 1st St,male,32,victim,injured,32
+2020-05-03,Virginia,Charlottesville,800 block of Mallside Forest Ct,male,Adult 18+,victim,injured,NA
+2020-04-19,Virginia,Charlottesville,800 block of Cherry Ave,male,28,suspect,unharmed,28
+2020-04-19,Virginia,Charlottesville,800 block of Cherry Ave,male,20,suspect,unharmed,20
+2020-04-19,Virginia,Charlottesville,800 block of Cherry Ave,male,Adult 18+,victim,injured,NA
+2020-04-07,Virginia,Charlottesville,Woodburn Rd,NA,NA,suspect,unharmed,NA
+2020-04-02,Virginia,Charlottesville,1200 block of Emmet St N,NA,NA,suspect,unharmed,NA
+2020-01-12,Virginia,Charlottesville,700 block of Prospect Ave,male,Adult 18+,victim,injured,NA
+2020-01-10,Virginia,Charlottesville,900 block of Rives St,male,35,suspect,unharmed,35
+2020-01-01,Virginia,Charlottesville,11 Elliewood Ave,female,Adult 18+,victim,injured,NA
+2019-12-21,Virginia,Charlottesville,400 block of Massie Rd,male,Adult 18+,suspect,unharmed,NA
+2019-12-14,Virginia,Charlottesville,300 block of Riverside Ave,male,Adult 18+,victim,injured,NA
+2019-11-25,Virginia,Charlottesville,800 block of Hardy Dr,male,Adult 18+,victim,injured,NA
+2019-11-07,Virginia,Charlottesville,2234 Commonwealth Dr,male,Adult 18+,victim,injured,NA
+2019-11-07,Virginia,Charlottesville,2234 Commonwealth Dr,male,Adult 18+,victim,injured,NA
+2019-11-07,Virginia,Charlottesville,2234 Commonwealth Dr,male,27,suspect,unharmed,27
+2019-11-01,Virginia,Charlottesville,900 block of S 1st St,male,Adult 18+,victim,injured,NA
+2019-10-19,Virginia,Charlottesville,700 block of Prospect Ave,male,Adult 18+,victim,injured,NA
+2019-10-02,Virginia,Charlottesville,Lankford Ave and Ridge St,NA,NA,suspect,unharmed,NA
+2019-07-18,Virginia,Charlottesville,1900 block of Inglewood Dr,male,33,suspect,unharmed,33
+2019-07-18,Virginia,Charlottesville,1900 block of Inglewood Dr,male,32,suspect,unharmed,32
+2019-07-05,Virginia,Charlottesville,422 E Main St,male,18,suspect,unharmed,18
+2019-06-29,Virginia,Charlottesville,700 block of 6th St SE,male,NA,victim,injured,NA
+2019-06-18,Virginia,Charlottesville,500 block of Harris Rd,male,43,suspect,unharmed,43
+2019-05-16,Virginia,Charlottesville,500 block of Peter Jefferson Pkwy,male,49,suspect,unharmed,49
+2019-05-16,Virginia,Charlottesville,500 block of Peter Jefferson Pkwy,male,24,victim,killed,24
+2019-05-13,Virginia,Charlottesville,300 block of Timberland Ln,male,28,suspect,unharmed,28
+2019-05-10,Virginia,Charlottesville,500 block of Harris Rd,male,24,suspect,unharmed,24
+2019-05-08,Virginia,Charlottesville,1907 Emmet St,male,25,suspect,unharmed,25
+2019-04-29,Virginia,Charlottesville,2200 block of Commonwealth Dr,NA,17,suspect,unharmed,17
+2019-04-29,Virginia,Charlottesville,2200 block of Commonwealth Dr,NA,17,suspect,unharmed,17
+2019-04-29,Virginia,Charlottesville,2200 block of Commonwealth Dr,male,27,suspect,unharmed,27
+2019-04-29,Virginia,Charlottesville,2200 block of Commonwealth Dr,N/A,NA,victim,injured,NA
+2019-03-29,Virginia,Charlottesville,1900 Abbey Rd,male,Adult 18+,victim,injured,NA
+2019-03-29,Virginia,Charlottesville,1900 Abbey Rd,male,32,suspect,unharmed,32
+2019-03-29,Virginia,Charlottesville,1900 Abbey Rd,female,Adult 18+,victim,injured,NA
+2019-03-29,Virginia,Charlottesville,NA,male,45,victim,killed,45
+2019-03-02,Virginia,Charlottesville,300 block of E Jefferson St,male,29,suspect,unharmed,29
+2019-03-02,Virginia,Charlottesville,300 block of E Jefferson St,male,Adult 18+,victim,injured,NA
+2019-02-26,Virginia,Charlottesville,1000 block of Carlton Ave,NA,NA,suspect,unharmed,NA
+2019-02-26,Virginia,Charlottesville,1000 block of Carlton Ave,male,Adult 18+,victim,injured,NA
+2019-02-22,Virginia,Charlottesville,800 block of Hardy Dr,NA,NA,NA,unharmed,NA
+2019-02-10,Virginia,Charlottesville,300 block of 6th St SW,male,NA,victim,injured,NA
+2019-02-10,Virginia,Charlottesville,300 block of 6th St SW,male,NA,suspect,unharmed,NA
+2019-01-01,Virginia,Charlottesville,700 block of Prospect Ave,male,28,suspect,unharmed,28
+2018-12-28,Virginia,Charlottesville,100 Turtle Creek Rd,male,Adult 18+,victim,injured,NA
+2018-10-30,Virginia,Charlottesville,400 block of Burgoyne Rd,male,NA,suspect,unharmed,NA
+2018-10-30,Virginia,Charlottesville,400 block of Burgoyne Rd,male,19,victim,injured,19
+2018-10-01,Virginia,Charlottesville,900 block of 5th St SW,male,21,suspect,unharmed,21
+2018-09-08,Virginia,Charlottesville,800 block of Hardy Drive,male,27,victim,injured,27
+2018-09-08,Virginia,Charlottesville,800 block of Hardy Drive,NA,Adult 18+,victim,injured,NA
+2018-09-08,Virginia,Charlottesville,800 block of Hardy Drive,NA,Adult 18+,victim,injured,NA
+2018-08-25,Virginia,Charlottesville,Minor Ct,male,24,suspect,unharmed,24
+2018-08-25,Virginia,Charlottesville,Minor Ct,male,NA,victim,injured,NA
+2018-08-18,Virginia,Charlottesville,1200 block of Lankford Ave,NA,NA,suspect,unharmed,NA
+2018-08-17,Virginia,Charlottesville,201 Elliott Ave,male,NA,suspect,unharmed,NA
+2018-08-10,Virginia,Charlottesville,Concord Ave and Albemarle St,male,Teen 12-17,victim,injured,NA
+2018-07-29,Virginia,Charlottesville,800 block of Hardy Dr,NA,NA,suspect,unharmed,NA
+2018-07-19,Virginia,Charlottesville,112 Lankford Ave,male,29,suspect,unharmed,29
+2018-06-22,Virginia,Charlottesville,1600 Emmet St N,female,21,victim,killed,21
+2018-06-22,Virginia,Charlottesville,1600 Emmet St N,male,23,suspect,unharmed,23
+2018-05-16,Virginia,Charlottesville,405 Premier Cir,NA,NA,suspect,unharmed,NA
+2018-04-04,Virginia,Charlottesville,1600 block of Rio Hill Dr,male,23,suspect,unharmed,23
+2018-04-04,Virginia,Charlottesville,1600 block of Rio Hill Dr,male,Adult 18+,victim,injured,NA
+2017-12-24,Virginia,Charlottesville,1700 block Monticello Rd,female,33,victim,killed,33
+2017-12-24,Virginia,Charlottesville,1700 block Monticello Rd,male,37,suspect,killed,37
+2017-12-08,Virginia,Charlottesville,Wertland St,NA,NA,suspect,unharmed,NA
+2017-12-05,Virginia,Charlottesville,800 block of Hardy Dr,male,Adult 18+,victim,injured,NA
+2017-11-24,Virginia,Charlottesville,100 block of Garrett St,NA,NA,suspect,unharmed,NA
+2017-11-14,Virginia,Charlottesville,180 McCormick Rd,male,21,suspect,unharmed,21
+2017-10-31,Virginia,Charlottesville,1400 Melbourne Rd,male,17,suspect,unharmed,17
+2017-10-26,Virginia,Charlottesville,Avon St and Belmont Bridge,male,58,suspect,unharmed,58
+2017-10-13,Virginia,Charlottesville,300 block of Riverside Ave,male,42,victim,killed,42
+2017-09-11,Virginia,Charlottesville,900 block of 1st St S,male,45,victim,killed,45
+2017-09-11,Virginia,Charlottesville,900 block of 1st St S,male,18,suspect,unharmed,18
+2017-09-02,Virginia,Charlottesville,4 Seasons Dr,male,18,suspect,unharmed,18
+2017-09-02,Virginia,Charlottesville,4 Seasons Dr,NA,NA,victim,injured,NA
+2017-09-02,Virginia,Charlottesville,4 Seasons Dr,male,19,suspect,unharmed,19
+2017-09-01,Virginia,Charlottesville,400 block of Four Seasons Dr,male,Adult 18+,victim,injured,NA
+2017-09-01,Virginia,Charlottesville,400 block of Four Seasons Dr,male,18,suspect,arrested,18
+2017-09-01,Virginia,Charlottesville,400 block of Four Seasons Dr,male,19,suspect,arrested,19
+2017-08-15,Virginia,Charlottesville,101 E Market St,male,Adult 18+,suspect,unharmed,NA
+2017-08-12,Virginia,Charlottesville,100 block of W Market St,male,52,suspect,unharmed,52
+2017-08-12,Virginia,Charlottesville,100 block of W Market St,male,44,suspect,unharmed,44
+2017-07-12,Virginia,Charlottesville,Emmet St S,male,Adult 18+,suspect,unharmed,NA
+2017-07-10,Virginia,Charlottesville,700 block of 6th St SE,male,Teen 12-17,suspect,unharmed,NA
+2017-07-10,Virginia,Charlottesville,700 block of 6th St SE,male,25,suspect,unharmed,25
+2017-07-10,Virginia,Charlottesville,700 block of 6th St SE,male,19,suspect,unharmed,19
+2017-07-08,Virginia,Charlottesville,400 block of Garrett St,male,Adult 18+,victim,injured,NA
+2017-07-08,Virginia,Charlottesville,400 block of Garrett St,male,Adult 18+,suspect,unharmed,NA
+2017-07-02,Virginia,Charlottesville,400 block of Garrett St,male,19,suspect,unharmed,19
+2017-04-22,Virginia,Charlottesville,200 block of W Water St,male,22,suspect,unharmed,22
+2017-04-20,Virginia,Charlottesville,800 block of Hardy Dr,male,45,victim,injured,45
+2017-04-20,Virginia,Charlottesville,800 block of Hardy Dr,male,25,suspect,unharmed,25
+2017-04-11,Virginia,Charlottesville,900 block of S 1st St,male,NA,suspect,unharmed,NA
+2017-04-11,Virginia,Charlottesville,900 block of S 1st St,male,30,victim,injured,30
+2017-04-09,Virginia,Charlottesville,2500 block of Hydraulic Rd,NA,NA,suspect,unharmed,NA
+2017-03-16,Virginia,Charlottesville,800 block of 6th St SE,male,18,suspect,unharmed,18
+2017-03-16,Virginia,Charlottesville,800 block of 6th St SE,male,19,suspect,unharmed,19
+2017-03-16,Virginia,Charlottesville,800 block of 6th St SE,male,20,suspect,unharmed,20
+2017-03-16,Virginia,Charlottesville,800 block of 6th St SE,male,16,victim,injured,16
+2017-02-05,Virginia,Charlottesville,10th St NW and Run St,male,43,victim,killed,43
+2017-02-05,Virginia,Charlottesville,10th St NW and Run St,female,NA,victim,injured,NA
+2016-12-30,Virginia,Charlottesville,500 block of 6th St SE,male,16,victim,injured,16
+2016-12-14,Virginia,Charlottesville,6th Street SW,male,49,victim,injured,49
+2016-12-14,Virginia,Charlottesville,6th Street SW,female,19,victim,injured,19
+2016-12-03,Virginia,Charlottesville,418 Garrett St,male,22,suspect,unharmed,22
+2016-11-13,Virginia,Charlottesville,500 block of 11th St NW,male,25,victim,injured,25
+2016-11-09,Virginia,Charlottesville,2400 block of Commonwealth Dr,male,84,suspect,unharmed,84
+2016-11-09,Virginia,Charlottesville,2400 block of Commonwealth Dr,male,47,victim,killed,47
+2016-10-05,Virginia,Charlottesville,400 block of Garrett Street,male,19,suspect,unharmed,19
+2016-10-05,Virginia,Charlottesville,400 block of Garrett Street,male,19,victim,injured,19
+2016-10-01,Virginia,Charlottesville,Minor Court Lane,NA,Adult 18+,victim,injured,NA
+2016-10-01,Virginia,Charlottesville,Minor Court Lane,male,23,suspect,unharmed,23
+2016-10-01,Virginia,Charlottesville,Minor Court Lane,NA,Adult 18+,victim,injured,NA
+2016-10-01,Virginia,Charlottesville,Minor Court Lane,male,Adult 18+,victim,injured,NA
+2016-10-01,Virginia,Charlottesville,Monticello Avenue,male,22,suspect,unharmed,22
+2016-09-08,Virginia,Charlottesville,Glade Ln,male,23,suspect,unharmed,23
+2016-08-11,Virginia,Charlottesville,2300 block of Cumberland Road,NA,Teen 12-17,suspect,unharmed,NA
+2016-08-11,Virginia,Charlottesville,2300 block of Cumberland Road,NA,Teen 12-17,victim,injured,NA
+2016-07-19,Virginia,Charlottesville,800 block of Hardy Drive,male,28,suspect,unharmed,28
+2016-07-17,Virginia,Charlottesville,400 block of Earhart Street.,N/A,23,victim,killed,23
+2016-07-17,Virginia,Charlottesville,400 block of Earhart Street.,N/A,23,suspect,unharmed,23
+2016-07-17,Virginia,Charlottesville,400 block of Earhart Street.,male,21,suspect,unharmed,21
+2016-07-17,Virginia,Charlottesville,800 block of Runnel Ct,male,23,suspect,unharmed,23
+2016-07-10,Virginia,Charlottesville,2300 block of Commonwealth Dr,male,Adult 18+,victim,injured,NA
+2016-06-17,Virginia,Charlottesville,900 block of 1st St South,NA,NA,suspect,unharmed,NA
+2016-06-12,Virginia,Charlottesville,1517 University Avenue,male,NA,suspect,unharmed,NA
+2016-06-12,Virginia,Charlottesville,Cherry Avenue and Bakers Street,NA,NA,suspect,unharmed,NA
+2016-06-07,Virginia,Charlottesville,11th Street NW and Gordon Avenue,NA,NA,suspect,unharmed,NA
+2016-05-18,Virginia,Charlottesville,700 block of 6th Street SE,male,22,suspect,unharmed,22
+2016-04-23,Virginia,Charlottesville,500 block of Nassau Street,male,18,suspect,unharmed,18
+2016-03-30,Virginia,Charlottesville,1300 block of Gordon Avenue,NA,NA,suspect,unharmed,NA
+2016-03-19,Virginia,Charlottesville,200 block of 3rd Street NE,male,26,suspect,unharmed,26
+2016-03-17,Virginia,Charlottesville,500 block of Caroline Avenue,NA,NA,suspect,unharmed,NA
+2016-03-12,Virginia,Charlottesville,5th Street,male,21,suspect,unharmed,21
+2016-03-10,Virginia,Charlottesville,700 block of Prospect Avenue,NA,NA,suspect,unharmed,NA
+2016-02-05,Virginia,Charlottesville,700 block of Prospect Avenue,NA,NA,suspect,unharmed,NA
+2016-01-20,Virginia,Charlottesville,1920 Arden Creek Pl,male,23,suspect,unharmed,23
+2016-01-03,Virginia,Charlottesville,2500 block of Jefferson Park Avenue,male,25,suspect,unharmed,25
+2015-12-25,Virginia,Charlottesville,400 block of Garrett Street,male,26,victim,injured,26
+2015-12-20,Virginia,Charlottesville,1400 block of University Avenue,NA,NA,suspect,unharmed,NA
+2015-12-17,Virginia,Charlottesville,2112 West Main Street,male,28,suspect,unharmed,28
+2015-11-25,Virginia,Charlottesville,7 1/2 St SW and Prospect Avenue,male,19,victim,injured,19
+2015-11-21,Virginia,Charlottesville,908 South 1st Street,male,31,victim,killed,31
+2015-11-21,Virginia,Charlottesville,908 South 1st Street,male,26,suspect,unharmed,26
+2015-11-21,Virginia,Charlottesville,908 South 1st Street,male,26,suspect,unharmed,26
+2015-10-24,Virginia,Charlottesville,Hardy Drive,male,33,suspect,unharmed,33
+2015-10-24,Virginia,Charlottesville,Hardy Drive,male,42,suspect,unharmed,42
+2015-10-24,Virginia,Charlottesville,Hardy Drive,male,34,suspect,unharmed,34
+2015-10-03,Virginia,Charlottesville,800 block of Dale Avenue,male,54,suspect,unharmed,54
+2015-09-24,Virginia,Charlottesville,100 block of Wahoo Way,male,30,suspect,unharmed,30
+2015-09-24,Virginia,Charlottesville,100 block of Wahoo Way,male,30,suspect,unharmed,30
+2015-09-24,Virginia,Charlottesville,100 block of Wahoo Way,male,NA,victim,injured,NA
+2015-09-22,Virginia,Charlottesville,2400 block of Brook Rd,male,42,suspect,unharmed,42
+2015-09-03,Virginia,Charlottesville,1500 block of Carlton Avenue,male,31,victim,killled,31
+2015-08-11,Virginia,Charlottesville,800 block of Monticello Road,NA,NA,suspect,unharmed,NA
+2015-08-06,Virginia,Charlottesville,800 block of Prospect Avenue,male,28,victim,injured,28
+2015-08-01,Virginia,Charlottesville,400 block of McIntire Road,male,18,suspect,unharmed,18
+2015-08-01,Virginia,Charlottesville,400 block of McIntire Road,male,18,suspect,unharmed,18
+2015-07-31,Virginia,Charlottesville,800 block of Orangedale Avenue,NA,NA,suspect,unharmed,NA
+2015-07-21,Virginia,Charlottesville,3900 block of Riverview Ln,male,Adult 18+,victim,injured,NA
+2015-07-21,Virginia,Charlottesville,3900 block of Riverview Ln,female,27,suspect,unharmed,27
+2015-06-25,Virginia,Charlottesville,200 block of 10th Street NW,male,22,suspect,unharmed,22
+2015-06-25,Virginia,Charlottesville,200 block of 10th Street NW,male,33,victim,injured,33
+2015-02-28,Virginia,Charlottesville,700 block of 6th Street Southeast,NA,NA,suspect,unharmed,NA
+2014-11-20,Virginia,Charlottesville,1309 Wertland Street,male,20,victim,killed,20
+2014-11-16,Virginia,Charlottesville,900 block of Fifth Street SW,NA,NA,suspect,unharmed,NA
+2014-10-30,Virginia,Charlottesville,1000 block of Altavista Avenue,male,Adult 18+,suspect,unharmed,NA
+2014-10-30,Virginia,Charlottesville,1000 block of Altavista Avenue,female,Adult 18+,victim,injured,NA
+2014-05-17,Virginia,Charlottesville,Hardy Drive,male,36,victim,killed,36
+2014-05-17,Virginia,Charlottesville,Hardy Drive,male,39,suspect,unharmed,39
