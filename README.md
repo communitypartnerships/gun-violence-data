@@ -4,14 +4,14 @@ A collection of publicly available data related to gun violence in Charlottesvil
 
 Learn more about each source, including a summary of insights and limitations at <https://communitypartnerships.github.io/local-gun-violence/data-overview.html>
 
-## How to Download 
+## How to Download
 
 Click on the icon
 
 ## Available Data
 
 | Data Name | Description | Date | More Info |
-|-----------------------|--------------------------|------|---------------------|
+|----|----|----|----|
 | atf_licenses_local_jan25.csv | A collection of all active ATF-authorized Federal Firearm Licenses in Charlottesville and Albemarle as of January 2025. Includes address information. | Jan 2025 | <https://www.atf.gov/firearms/listing-federal-firearms-licensees> |
 | atf_licenses_va_jan25.csv | A collection of all active ATF-authorized Federal Firearm Licenses in Virginia as of January 2025. Includes address information. | Jan 2025 | <https://www.atf.gov/firearms/listing-federal-firearms-licensees> |
 | cdc_deaths_2018_2023.csv | A summary of all firearm-related deaths by intent in Charlottesville, Albemarle, the Blue Ridge Health District, and Virginia from 2018-2023 according to the CDC. | 2018 - 2023 | <https://wonder.cdc.gov/deaths-by-underlying-cause.html> |
