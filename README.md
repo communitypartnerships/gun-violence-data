@@ -8,7 +8,7 @@ Learn more about each source, including a summary of insights and limitations at
 
 Click on the data set listed above to see a preview of the output. On the preview page click the "Download Raw File" icon on the right to download the data set.
 
-![Click the icon to download the data.](download.png){width="300"}
+![Click the icon to download the data.](other/download.png){width="300"}
 
 ## Available Data
 
