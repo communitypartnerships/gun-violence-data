@@ -8,7 +8,7 @@ Learn more about each source, including a summary of insights and limitations at
 
 Click on the data set listed above to see a preview of the output. On the preview page click the "Download Raw File" icon on the right to download the data set.
 
-![Click the icon to download the data.](other/download.png){width="300"}
+![Click the icon to download the data.](other/download.png)
 
 ## Available Data
 
@@ -17,7 +17,7 @@ Click on the data set listed above to see a preview of the output. On the previe
 *More information:* <https://www.atf.gov/firearms/listing-federal-firearms-licensees>
 
 | Data Name | Description | Date |
-|---------------|-----------------------------------------------|---------|
+|---------------|-------------------------------------------|---------------|
 | atf_licenses_local_jan25.csv | A collection of all active ATF-authorized Federal Firearm Licenses in Charlottesville and Albemarle as of January 2025. Includes address information. | Jan 2025 |
 | atf_licenses_va_jan25.csv | A collection of all active ATF-authorized Federal Firearm Licenses in Virginia as of January 2025. Includes address information. | Jan 2025 |
 
@@ -26,7 +26,7 @@ Click on the data set listed above to see a preview of the output. On the previe
 *More information:* <https://wonder.cdc.gov/deaths-by-underlying-cause.html>
 
 | Data Name | Description | Date |
-|--------------|-----------------------------------------------|---------|
+|---------------|-------------------------------------------|---------------|
 | cdc_deaths_2018_2023.csv | A summary of all firearm-related deaths by intent in Charlottesville, Albemarle, the Blue Ridge Health District, and Virginia from 2018-2023 according to the CDC. | 2018 - 2023 |
 | cdc_suicide_age_2018_2023.csv | A summary of all suicide by firearms in the Blue Ridge Health District and Virginia between 2018 to 2023 grouped by the victim's age. | 2018 - 2023 |
 | cdc_suicide_race_2018_2023.csv | A summary of all suicide by firearms in the Blue Ridge Health District and Virginia between 2018 to 2023 grouped by the victim's race. | 2018 - 2023 |
@@ -36,7 +36,7 @@ Click on the data set listed above to see a preview of the output. On the previe
 *More information:* <https://www.gunviolencearchive.org/>
 
 | Data Name | Description | Date |
-|--------------|-----------------------------------------------|---------|
+|---------------|-------------------------------------------|---------------|
 | gva_incidents_local.csv | A collection of all incidents in Charlottesville recorded in the Gun Violence Archive from 2015 to 2024. | 2015 - 2024 |
 | gva_incidents_virginia.csv | A collection of all incidents in Virginia recorded in the Gun Violence Archive from 2015 to 2024. | 2015 - 2024 |
 | gva_officerinvolved_local.csv | A summary of all officer-involved shootings in Charlottesville recorded in the Gun Violence Archive from 2015 to 2024. | 2015 - 2024 |
@@ -49,7 +49,7 @@ Click on the data set listed above to see a preview of the output. On the previe
 *More information:* <https://vsp.virginia.gov/sections-units-bureaus/bass/criminal-justice-information-services/uniform-crime-reporting/#UCR-IBR>
 
 | Data Name | Description | Date |
-|--------------|-----------------------------------------------|---------|
+|---------------|-------------------------------------------|---------------|
 | nibrs_domestic_2016_2023.csv | A summary of reported victim/suspect relationships for incidents of domestic violence with a firearm for Charlottesville, Albemarle, and greater Virginia from 2016 to 2023. | 2016 - 2023 |
 | nibrs_force_2019_2023.csv | A summary of reported Use of Force and Officer-Involved Shootings in Virginia from 2019 to 2023. | 2019 - 2023 |
 | nibrs_ipv_2016_2023.csv | A summary of reported incidents of intimate partner violence with a firearm in Charlottesville, Virginia, and greater Virginia from 2016 to 2023. | 2016 - 2023 |
