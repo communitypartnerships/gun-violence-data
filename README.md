@@ -14,7 +14,7 @@ Click on the data set listed above to see a preview of the output. On the previe
 
 ### Alcohol Tobacco Firearms and Explosives (firearm licensing information)
 
-More information: <https://www.atf.gov/firearms/listing-federal-firearms-licensees>
+*More information:* <https://www.atf.gov/firearms/listing-federal-firearms-licensees>
 
 | Data Name | Description | Date |
 |---------------|-----------------------------------------------|---------|
@@ -23,7 +23,7 @@ More information: <https://www.atf.gov/firearms/listing-federal-firearms-license
 
 ### Centers for Disease Control (victim information)
 
-More information: <https://wonder.cdc.gov/deaths-by-underlying-cause.html>
+*More information:* <https://wonder.cdc.gov/deaths-by-underlying-cause.html>
 
 | Data Name | Description | Date |
 |--------------|-----------------------------------------------|---------|
@@ -33,9 +33,9 @@ More information: <https://wonder.cdc.gov/deaths-by-underlying-cause.html>
 
 ### Gun Violence Archive (incident and participant information)
 
-More information: <https://www.gunviolencearchive.org/>
+*More information:* <https://www.gunviolencearchive.org/>
 
-|  |  |  |
+| Data Name | Description | Date |
 |--------------|-----------------------------------------------|---------|
 | gva_incidents_local.csv | A collection of all incidents in Charlottesville recorded in the Gun Violence Archive from 2015 to 2024. | 2015 - 2024 |
 | gva_incidents_virginia.csv | A collection of all incidents in Virginia recorded in the Gun Violence Archive from 2015 to 2024. | 2015 - 2024 |
@@ -43,6 +43,17 @@ More information: <https://www.gunviolencearchive.org/>
 | gva_officerinvolved_virginia.csv | A collection of all officer-involved shootings in Virginia recorded in the Gun Violence Archive from 2015 to 2024. | 2015 - 2024 |
 | gva_participants_local.csv | A collection of participant-level information such as role, approximate age, and gender for each incident of gun violence recorded in the Gun Violence Archive in Charlottesville from 2015 to 2024. | 2015 - 2014 |
 | gva_participants_virginia.csv | A collection of participant-level information such as role, approximate age, and gender for each incident of gun violence recorded in the Gun Violence Archive in Virginia from 2015 to 2024. | 2015 - 2024 |
+
+### National Incident-Based Reporting System (police incident counts)
+
+*More information:* <https://vsp.virginia.gov/sections-units-bureaus/bass/criminal-justice-information-services/uniform-crime-reporting/#UCR-IBR>
+
+| Data Name | Description | Date |
+|--------------|-----------------------------------------------|---------|
+| nibrs_domestic_2016_2023.csv | A summary of reported victim/suspect relationships for incidents of domestic violence with a firearm for Charlottesville, Albemarle, and greater Virginia from 2016 to 2023. | 2016 - 2023 |
+| nibrs_force_2019_2023.csv | A summary of reported Use of Force and Officer-Involved Shootings in Virginia from 2019 to 2023. | 2019 - 2023 |
+| nibrs_ipv_2016_2023.csv | A summary of reported incidents of intimate partner violence with a firearm in Charlottesville, Virginia, and greater Virginia from 2016 to 2023. | 2016 - 2023 |
+| nibrs_theft\_ | A summary of reported firearm thefts from vehicles in Charlottesville, Albemarle, greater Virginia between 2016 to 2023. | 2016 - 2023 |
 
 ## Additional Resources
 
